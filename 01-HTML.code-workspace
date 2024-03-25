@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "lcj626-1",
+			"path": "../lcj626-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01-HTML"
+	}
+}
